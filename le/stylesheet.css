@@ -1,0 +1,15 @@
+
+.title1 {
+    color: #000000;/*文字色*/
+  padding: 0.5em 0;/*上下の余白*/
+  border-top: solid 3px #642323;/*上線*/
+  border-bottom: solid 3px #642323;/*下線*/
+  }
+  .title2 {
+    padding: 0.25em 0.5em;/*上下 左右の余白*/
+    color: #6e6666;/*文字色*/
+    background: transparent;/*背景透明に*/
+    border-left: solid 5px #642323;/*左線*/
+  }
+  
+  
